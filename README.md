@@ -58,8 +58,6 @@ Analysis of the highest sales made by employees in a single transaction.
 
 This SQL file can be used to better understand the business operations of the Northwind company and to improve business strategies. Each analysis heading addresses a specific business issue and presents the data in a meaningful way.
 
-For more details or further information on the analyses, you can explore this project to access more content.
-
 ---
 
 **Note:** This SQL file has been created and tested using PostgreSQL database.
